@@ -1,0 +1,13 @@
+-
+  name: 2008获取会员个人资料
+  requests:
+    url: http://hn216.api.yesapi.cn/api/App/User/Profile
+    method: post
+    data:
+      app_key: 0DF5B8C9BE5133A6C86CC4A024D03A98
+      uuid:
+      token:
+    params: null
+    heads: null
+  assert: null
+

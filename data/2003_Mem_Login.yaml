@@ -1,0 +1,26 @@
+# 正常登录
+-
+  name: 2003会员登录接口
+  requests:
+    host: ${host()}
+    url: /Login
+    method: post
+    data:
+      app_key: 0DF5B8C9BE5133A6C86CC4A024D03A98
+      username: waf123
+      password: e10adc3949ba59abbe56e057f20f883e
+    heads: null
+  assert: null
+
+# 异常登录-错误用户名
+#-
+#  name: 2003会员登录接口
+#  requests:
+#    url: http://hn216.api.yesapi.cn/api/App/User/Login
+#    method: post
+#    data:
+#      app_key: 0DF5B8C9BE5133A6C86CC4A024D03A98
+#      username: waf12322
+#      password: e10adc3949ba59abbe56e057f20f883e
+#    heads: null
+#  assert: null

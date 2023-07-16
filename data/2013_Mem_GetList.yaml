@@ -1,0 +1,14 @@
+-
+  name: 2013获取会员列表接口
+  requests:
+    url: http://hn216.api.yesapi.cn/api/App/User/GetList
+    method: get
+    data: null
+    params:
+      app_key: 0DF5B8C9BE5133A6C86CC4A024D03A98
+      page: 1
+      perpage: 200
+      sort_type: 2
+    heads: null
+  assert: null
+

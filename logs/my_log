@@ -1,0 +1,12 @@
+[2023-07-15 12:40:04] logging_util.py[line:10] CRITICAL logging.critical message
+[2023-07-15 12:40:04] logging_util.py[line:11] ERROR logging.error message
+[2023-07-15 12:40:04] logging_util.py[line:12] WARNING logging.warning message
+[2023-07-15 12:40:04] logging_util.py[line:13] INFO logging.info message
+[2023-07-15 12:55:47] logging_util.py[line:10] CRITICAL logging.critical message
+[2023-07-15 12:55:47] logging_util.py[line:11] ERROR logging.error message
+[2023-07-15 12:55:47] logging_util.py[line:12] WARNING logging.warning message
+[2023-07-15 12:55:47] logging_util.py[line:13] INFO logging.info message
+[2023-07-15 12:55:47] logging_util.py[line:32] CRITICAL 致命错误
+[2023-07-15 12:55:47] logging_util.py[line:33] ERROR 错误信息
+[2023-07-15 12:55:47] logging_util.py[line:34] WARNING 警告信息
+[2023-07-15 12:55:47] logging_util.py[line:35] INFO 提示信息
